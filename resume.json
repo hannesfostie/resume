@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Hannes Fostie",
+    "label": "Developer",
+    "picture": "",
+    "email": "hannes.fostie@gmail.com",
+    "phone": "+32 479 37 78 57",
+    "website": "",
+    "summary": "Hannes is a Ruby developer from Belgium with a passion for elegant code and beautiful interfaces (whether they be visual or not, such as command line tools and APIs).",
+    "location": {
+      "address": "Marktweg 67",
+      "postalCode": "9500",
+      "city": "Geraardsbergen",
+      "countryCode": "BE",
+      "region": "Oost-Vlaanderen"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "hannesfostie",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Openminds",
+      "position": "Developer",
+      "website": "http://www.openminds.be/en/",
+      "startDate": "2012-06-18",
+      "endDate": "present",
+      "summary": "Openminds is a webhosting company with a focus on custom managed solutions for our clients. Our technical knowledge and personable approach is what sets us apart in the Belgian market. The control panel used by our support staff as well as our customers is developed in-house.",
+      "highlights": [
+        "Worked on various features for the control panel",
+        "Rebuilt the interface from the ground up with an external partner.",
+        "Ensuring consistency throughout the interface remains high",
+        "Rewrote the (broken and lacking) testing suite early on",
+        "Contributed to various client projects as well as internal tools (web services, command line tools)"
+      ]
+    },
+    {
+      "company": "OFO-IFA (Federal government of Belgium)",
+      "position": "System engineer",
+      "website": "https://www.ofoifa.belgium.be",
+      "startDate": "2010-03-15",
+      "endDate": "2012-06-15",
+      "summary": "OFO-IFA is the training institute of the federal government of Belgium. At the time there were about 125 employees and tens or hundreds of students every day. My colleagues and myself took care of everything IT related.",
+      "highlights": [
+        "Installation and maintenance of employee and student workstations",
+        "Network maintenance",
+        "Server installation and maintenance (mostly Windows)",
+        "Day to day helpdesk duties"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ArrrrCamp",
+      "position": "Captain",
+      "website": "http://www.arrrrcamp.be",
+      "startDate": "2012",
+      "endDate": "present",
+      "summary": "ArrrrCamp is a conference for the modern developer interested in Ruby, Rails or the industry in general. Our event will inspire you, help you learn new things, meet new people and hang out with old friends.",
+      "highlights": [
+        "One of two main organisers",
+        "Speaker and sponsorship contacts",
+        "General organisational duties"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University College of West-Flanders",
+      "area": "Multimedia and Communication Technology",
+      "studyType": "Bachelor",
+      "startDate": "2006",
+      "endDate": "2009",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Extremely comfortable"
+    },
+    {
+      "language": "French",
+      "fluency": "Basics"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic reading, understanding"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Climbing",
+      "keywords": [
+        "Bouldering, in- and outdoors"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Rock, metal, alternative"
+      ]
+    },
+    {
+      "name": "Video games",
+      "keywords": [
+        "I'm picky, but play quite often"
+      ]
+    },
+    {
+      "name": "Skiing",
+      "keywords": [
+        "Nothing beats the backcountry"
+      ]
+    },
+    {
+      "name": "The usual",
+      "keywords": [
+        "TV shows",
+        "Movies",
+        "Drinks with friends",
+        "Our famous Belgian beers"
+      ]
+    }
+  ],
+  "references": []
+}
