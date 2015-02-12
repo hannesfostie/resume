@@ -28,7 +28,6 @@
       "position": "Developer",
       "website": "http://www.openminds.be/en/",
       "startDate": "2012-06-18",
-      "endDate": "present",
       "summary": "Openminds is a webhosting company with a focus on custom managed solutions for our clients. Our technical knowledge and personable approach is what sets us apart in the Belgian market. The control panel used by our support staff as well as our customers is developed in-house.",
       "highlights": [
         "Worked on various features for the control panel",
@@ -58,8 +57,7 @@
       "organization": "ArrrrCamp",
       "position": "Captain",
       "website": "http://www.arrrrcamp.be",
-      "startDate": "2012",
-      "endDate": "present",
+      "startDate": "2012-10-03",
       "summary": "ArrrrCamp is a conference for the modern developer interested in Ruby, Rails or the industry in general. Our event will inspire you, help you learn new things, meet new people and hang out with old friends.",
       "highlights": [
         "One of two main organisers",
@@ -73,8 +71,8 @@
       "institution": "University College of West-Flanders",
       "area": "Multimedia and Communication Technology",
       "studyType": "Bachelor",
-      "startDate": "2006",
-      "endDate": "2009",
+      "startDate": "2006-09-01",
+      "endDate": "2009-06-31",
       "gpa": "",
       "courses": []
     }
