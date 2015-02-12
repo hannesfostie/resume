@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Hannes Fostie",
-    "label": "Developer",
-    "picture": "",
+    "label": "Ruby Developer",
+    "picture": "profile.png",
     "email": "hannes.fostie@gmail.com",
     "phone": "+32 479 37 78 57",
-    "website": "",
-    "summary": "I am a Ruby developer from Belgium with a passion for elegant code and beautiful interfaces (whether they be visual or not, such as command line tools and APIs).",
+    "website": "www.fostie.be",
+    "summary": "I am a Ruby developer from Belgium with a passion for elegant code and beautiful interfaces (whether they be visual or not, such as command line tools and APIs). My love for the web started as a teenager creating gaming websites in <blink>Frontpage</blink> and DreamWeaver. I initially had a strong preference for design but I soon learned design can be found in so much more than the visual side of things.",
     "location": {
       "address": "Marktweg 67",
       "postalCode": "9500",
@@ -16,9 +16,14 @@
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "hannesfostie",
+        "url": "https://github.com/hannesfostie"
+      },
+      {
         "network": "Twitter",
         "username": "hannesfostie",
-        "url": ""
+        "url": "https://twitter.com/hannesfostie"
       }
     ]
   },
@@ -81,11 +86,19 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Development",
+      "level": "",
       "keywords": [
-        "HTML",
-        "CSS"
+        "HTML5",
+        "CSS3",
+        "JavaScript / CoffeeScript",
+        "Ruby",
+        "Ruby on Rails",
+        "MySQL",
+        "PostgreSQL",
+        "RSpec",
+        "Minitest",
+        "Capistrano"
       ]
     }
   ],
@@ -96,7 +109,7 @@
     },
     {
       "language": "English",
-      "fluency": "Extremely comfortable"
+      "fluency": "Fluent"
     },
     {
       "language": "French",
@@ -109,36 +122,41 @@
   ],
   "interests": [
     {
-      "name": "Climbing",
+      "name": "Sports",
       "keywords": [
-        "Bouldering, in- and outdoors"
+        "Indoor rock climbing",
+        "Outdoor bouldering",
+        "Skiing (backcountry)"
       ]
     },
     {
       "name": "Music",
       "keywords": [
-        "Rock, metal, alternative"
+        "Foo Fighters",
+        "Queens of the Stone Age",
+        "Metallica",
+        "Iron Maiden",
+        "Tool",
+        "Slash",
+        "Baroness"
       ]
     },
     {
       "name": "Video games",
       "keywords": [
-        "I'm picky, but play quite often"
+        "Counter-Strike",
+        "DOTA2",
+        "EVE-Online",
+        "World of Warcraft"
       ]
     },
     {
-      "name": "Skiing",
+      "name": "TV Shows",
       "keywords": [
-        "Nothing beats the backcountry"
-      ]
-    },
-    {
-      "name": "The usual",
-      "keywords": [
-        "TV shows",
-        "Movies",
-        "Drinks with friends",
-        "Our famous Belgian beers"
+        "Breaking Bad",
+        "Arrested Development",
+        "Parks and Recreation",
+        "24"
       ]
     }
   ],
