@@ -5,14 +5,13 @@
     "picture": "profile.png",
     "email": "hannes.fostie@gmail.com",
     "phone": "+32 479 37 78 57",
-    "website": "www.fostie.be",
     "summary": "I am a Ruby developer from Belgium with a passion for elegant code and beautiful interfaces (whether they be visual or not, such as command line tools and APIs). My love for the web started as a teenager creating gaming websites in <blink>Frontpage</blink> and DreamWeaver. I initially had a strong preference for design but I soon learned design can be found in so much more than the visual side of things.",
     "location": {
-      "address": "Marktweg 67",
-      "postalCode": "9500",
-      "city": "Geraardsbergen",
+      "address": "Avondvrede 4",
+      "postalCode": "1570",
+      "city": "Galmaarden",
       "countryCode": "BE",
-      "region": "Oost-Vlaanderen"
+      "region": "Vlaams-Brabant"
     },
     "profiles": [
       {
@@ -29,10 +28,38 @@
   },
   "work": [
     {
+      "company": "Heroku",
+      "position": "Senior Developer",
+      "website": "https://www.heroku.com",
+      "startDate": "2015-11-16",
+      "summary": "Heroku provides services and tools to build, run, and scale web applications. We enable developers and teams to focus on the design and craft of their apps.",
+      "highlights": [
+        "Acted as a steward for all of the services driving our public web properties",
+        "Worked on several big refactors to unify our tools, including switching test frameworks and web frameworks.",
+        "Built an experimental service to highlight relevant content to Heroku Dev Center content.",
+        "Assisted various Marketing teams in achieving their web goals using form fills and external services like Pardot, Salesforce and Google Analytics.",
+        "Created a framework for A/B tests on the web, using server-side rendering of variations and Google Optimize and Google Analytics for reporting.",
+        "Operated all of our services on a day to day service, including on call rotations, ensuring high levels of uptime in line with our high goals"
+      ]
+    },
+    {
+      "company": "Sign2Pay",
+      "position": "Senior Developer",
+      "website": "http://www.sign2pay.com",
+      "startDate": "2015-11-02",
+      "endDate": "2015-12-10",
+      "summary": "Sign2Pay was a startup that did mobile payments and authentication using signatures as the second factor.",
+      "highlights": [
+        "Made an inventory and improvements to the test suite coverage and speed",
+        "Worked on various features of the OAuth service"
+      ]
+    },
+    {
       "company": "Openminds",
       "position": "Developer",
       "website": "http://www.openminds.be/en/",
       "startDate": "2012-06-18",
+      "endDate": "2015-10-15",
       "summary": "Openminds is a webhosting company with a focus on custom managed solutions for our clients. Our technical knowledge and personable approach is what sets us apart in the Belgian market. The control panel used by our support staff as well as our customers is developed in-house.",
       "highlights": [
         "Worked on various features for the control panel",
@@ -95,11 +122,12 @@
         "Ruby",
         "Ruby on Rails",
         "Git",
-        "MySQL",
+        "SQL",
         "PostgreSQL",
         "RSpec",
         "Minitest",
-        "Capistrano"
+        "Capistrano",
+        "Heroku"
       ]
     }
   ],
@@ -127,7 +155,7 @@
       "keywords": [
         "Indoor rock climbing",
         "Outdoor bouldering",
-        "Skiing (backcountry)"
+        "Offpiste skiing"
       ]
     },
     {
@@ -148,7 +176,9 @@
         "Counter-Strike",
         "DOTA2",
         "EVE-Online",
-        "World of Warcraft"
+        "World of Warcraft",
+        "Diablo III",
+        "Path of Exile"
       ]
     },
     {
@@ -157,7 +187,9 @@
         "Breaking Bad",
         "Arrested Development",
         "Parks and Recreation",
-        "24"
+        "24",
+        "Narcos",
+        "Stranger Things"
       ]
     }
   ],
