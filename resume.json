@@ -29,9 +29,10 @@
   "work": [
     {
       "company": "Heroku",
-      "position": "Senior Developer",
+      "position": "Lead Member of Technical Staff",
       "website": "https://www.heroku.com",
       "startDate": "2015-11-16",
+      "endDate": "2021-05-28",
       "summary": "Heroku provides services and tools to build, run, and scale web applications. We enable developers and teams to focus on the design and craft of their apps.",
       "highlights": [
         "Acted as a steward for all of the services driving our public web properties",
