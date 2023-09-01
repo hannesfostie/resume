@@ -28,6 +28,21 @@
   },
   "work": [
     {
+      "company": "Clearbit",
+      "position": "Senior Engineer",
+      "website": "https://www.clearbit.com",
+      "startDate": "2021-06-28",
+      "summary": "Clearbit is a B2B data activation platform that helps teams understand customers, identify prospects, and personalize interactions with real-time intelligence.",
+      "highlights": [
+        "Worked on migrating from one job queue to another.",
+        "Re-implemented a usage tracking service to give our customers more granular insight and accuracy into their used credits.",
+        "Used AI and LLMs to extract key information from various types of documents, such as SEC filings or Wikipedia pages.",
+        "Worked on rotations to directly support our customers with any problems they may experiencing or bugs they may encounter.",
+        "Helped out on a major AWS region migration, moving over all of our services to this new region.",
+        "Supported the company's Data services and enrichment APIs."
+      ]
+    },
+    {
       "company": "Heroku",
       "position": "Lead Member of Technical Staff",
       "website": "https://www.heroku.com",
